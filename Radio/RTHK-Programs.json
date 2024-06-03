@@ -2,6 +2,7 @@
   { "channel": "radio2", "programName": "morningsuite", "limit": 30 },
   { "channel": "radio1", "programName": "itsahappyday", "limit": 30 },
   { "channel": "radio2", "programName": "sunny_day", "limit": 30 },
+  { "channel": "radio2", "programName": "ladiesnight", "limit": 30 },
   { "channel": "radio2", "programName": "freeaswind", "limit": 30 },
   { "channel": "radio2", "programName": "Free_as_the_wind", "limit": 30 },
   { "channel": "radio2", "programName": "reunion", "limit": 30 },
