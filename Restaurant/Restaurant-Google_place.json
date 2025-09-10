@@ -1,0 +1,5550 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJuxc1cFPV1IkRk9o1xNTe10s",
+      "types": [
+        "restaurant",
+        "seafood_restaurant",
+        "chinese_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-889-8898",
+      "formattedAddress": "9019 Leslie St, Richmond Hill, ON L4B 4A3, Canada",
+      "location": {
+        "latitude": 43.8478562,
+        "longitude": -79.38219289999999
+      },
+      "websiteUri": "https://jumbolobster.ca/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 11:00 PM",
+          "Thursday: 10:00 AM – 11:00 PM",
+          "Friday: 10:00 AM – 11:00 PM",
+          "Saturday: 10:00 AM – 11:00 PM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2554,
+      "displayName": {
+        "text": "Jumbo Lobster Restaurant",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 11:00 PM",
+          "Thursday: 10:00 AM – 11:00 PM",
+          "Friday: 10:00 AM – 11:00 PM",
+          "Saturday: 10:00 AM – 11:00 PM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJh5_58r_U1IkRDbXuFBKjVdQ",
+      "types": [
+        "buffet_restaurant",
+        "thai_restaurant",
+        "seafood_restaurant",
+        "sushi_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "japanese_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-940-1811",
+      "formattedAddress": "25 Lanark Rd, Markham, ON L3R 9S1, Canada",
+      "location": {
+        "latitude": 43.845038200000005,
+        "longitude": -79.3584221
+      },
+      "websiteUri": "http://www.dragonlegend.ca/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Dragon Legend",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJFck5eDQrK4gRVrtFsQG3mSQ",
+      "types": [
+        "bowling_alley",
+        "video_arcade",
+        "diner",
+        "sports_complex",
+        "bar",
+        "sports_activity_location",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-881-5927",
+      "formattedAddress": "9 East Wilmot St, Richmond Hill, ON L3P 3J4, Canada",
+      "location": {
+        "latitude": 43.8522493,
+        "longitude": -79.38379259999999
+      },
+      "websiteUri": "https://splitsville.ca/richmond-hill-bowling/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 12:00 AM",
+          "Thursday: 10:00 AM – 12:00 AM",
+          "Friday: 10:00 AM – 1:00 AM",
+          "Saturday: 10:00 AM – 1:00 AM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3138,
+      "displayName": {
+        "text": "Splitsville Richmond Hill",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 11:00 PM",
+          "Tuesday: 10:00 AM – 11:00 PM",
+          "Wednesday: 10:00 AM – 12:00 AM",
+          "Thursday: 10:00 AM – 12:00 AM",
+          "Friday: 10:00 AM – 1:00 AM",
+          "Saturday: 10:00 AM – 1:00 AM",
+          "Sunday: 10:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJh7SnFpXU1IkRIkOVxRqcj7g",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-944-9418",
+      "formattedAddress": "8261 Woodbine Ave #8, Markham, ON L3R 8Z5, Canada",
+      "location": {
+        "latitude": 43.8444991,
+        "longitude": -79.35481
+      },
+      "websiteUri": "https://skyviewfusioncuisine.com/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Skyview Fusion Cuisine",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJ1azDAbbU1IkRv9OYB0zzF8k",
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "bar_and_grill",
+        "wine_bar",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "bar",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-709-4280",
+      "formattedAddress": "155 York Blvd, Richmond Hill, ON L4B 3B4, Canada",
+      "location": {
+        "latitude": 43.847311999999995,
+        "longitude": -79.374402
+      },
+      "websiteUri": "https://www.scaddabush.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 11:30 PM",
+          "Saturday: 11:30 AM – 11:30 PM",
+          "Sunday: 11:30 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9721,
+      "displayName": {
+        "text": "Scaddabush Italian Kitchen & Bar Richmond Hill",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 11:30 PM",
+          "Saturday: 11:30 AM – 11:30 PM",
+          "Sunday: 11:30 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJNZwyQjErK4gRiq6FhWcnkOU",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-597-1766",
+      "formattedAddress": "505 Hwy 7, Markham, ON L3T 7T1, Canada",
+      "location": {
+        "latitude": 43.8419956,
+        "longitude": -79.3870018
+      },
+      "websiteUri": "https://www.nianyikuaizi.ca/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 11:00 PM",
+          "Tuesday: 11:30 AM – 11:00 PM",
+          "Wednesday: 11:30 AM – 11:00 PM",
+          "Thursday: 11:30 AM – 11:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 11:30 AM – 11:00 PM",
+          "Sunday: 11:30 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2806,
+      "displayName": {
+        "text": "Nian Yi Kuai Zi",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 11:00 PM",
+          "Tuesday: 11:30 AM – 11:00 PM",
+          "Wednesday: 11:30 AM – 11:00 PM",
+          "Thursday: 11:30 AM – 11:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 11:30 AM – 11:00 PM",
+          "Sunday: 11:30 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJHbAbOkkrK4gR765Ghi3euGk",
+      "types": [
+        "seafood_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-881-1688",
+      "formattedAddress": "270 West Beaver Creek Rd, Richmond Hill, ON L4B 3Y9, Canada",
+      "location": {
+        "latitude": 43.8444672,
+        "longitude": -79.387276
+      },
+      "websiteUri": "http://yuseafood.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3536,
+      "displayName": {
+        "text": "Yu Seafood",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJOwMMAwArK4gRepttzdOI-0k",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-763-8880",
+      "formattedAddress": "330 Hwy 7 unit106, Richmond Hill, ON L4B 3P8, Canada",
+      "location": {
+        "latitude": 43.8414394,
+        "longitude": -79.3989529
+      },
+      "websiteUri": "http://www.loonfong.ca/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 2,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 2,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 PM – 12:00 AM",
+          "Tuesday: 12:00 PM – 12:00 AM",
+          "Wednesday: 12:00 PM – 12:00 AM",
+          "Thursday: 12:00 PM – 12:00 AM",
+          "Friday: 12:00 PM – 2:00 AM",
+          "Saturday: 11:00 AM – 2:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T16:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 762,
+      "displayName": {
+        "text": "Loon Fong Hotpot",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 2,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 2,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 PM – 12:00 AM",
+          "Tuesday: 12:00 PM – 12:00 AM",
+          "Wednesday: 12:00 PM – 12:00 AM",
+          "Thursday: 12:00 PM – 12:00 AM",
+          "Friday: 12:00 PM – 2:00 AM",
+          "Saturday: 11:00 AM – 2:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T16:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJHftRY3zV1IkRPHM_-D23uGI",
+      "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "american_restaurant",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-513-8978",
+      "formattedAddress": "3760 Hwy 7, Markham, ON L3R 0N2, Canada",
+      "location": {
+        "latitude": 43.856614199999996,
+        "longitude": -79.3323283
+      },
+      "websiteUri": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MTkyMjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJxZ83VZjV1IkRcpABBO9X6Ss",
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 365-536-0506",
+      "formattedAddress": "8333 Kennedy Rd #1073, Markham, ON L3R 4P8, Canada",
+      "location": {
+        "latitude": 43.8564921,
+        "longitude": -79.30414789999999
+      },
+      "websiteUri": "https://www.daimarushabushabu.com/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Daimaru Shabu Shabu (大丸 Markham)",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJWyfJHlnU1IkRv9M2WG3o83o",
+      "types": [
+        "hotel",
+        "mediterranean_restaurant",
+        "banquet_hall",
+        "event_venue",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-752-2700",
+      "formattedAddress": "7255 Warden Ave., Markham, ON L3R 1B4, Canada",
+      "location": {
+        "latitude": 43.828087599999996,
+        "longitude": -79.3258714
+      },
+      "websiteUri": "http://www.montecarloinns.com/downtown-markham-suites",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Monte Carlo Inn & Suites - Downtown Markham",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJM9BWlp7U1IkRyZkN7z_GJQs",
+      "types": [
+        "restaurant",
+        "seafood_restaurant",
+        "buffet_restaurant",
+        "asian_restaurant",
+        "sushi_restaurant",
+        "meal_takeaway",
+        "japanese_restaurant",
+        "chinese_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-479-6000",
+      "formattedAddress": "7660 Woodbine Ave, Markham, ON L3R 2N2, Canada",
+      "location": {
+        "latitude": 43.829716999999995,
+        "longitude": -79.3535907
+      },
+      "websiteUri": "http://www.mandarinrestaurant.com/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Mandarin Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJVU10rEssK4gRa7Enune0y74",
+      "types": [
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-764-9500",
+      "formattedAddress": "159 York Blvd, Richmond Hill, ON L4B 3B4, Canada",
+      "location": {
+        "latitude": 43.847874999999995,
+        "longitude": -79.374934
+      },
+      "websiteUri": "https://moxies.com/restaurants/richmond-hill-beavercreek?utm_source=GMB&utm_medium=google-location-listing&utm_campaign=organic",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 2,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 2,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 12:00 AM",
+          "Tuesday: 11:00 AM – 12:00 AM",
+          "Wednesday: 11:00 AM – 1:00 AM",
+          "Thursday: 11:00 AM – 1:00 AM",
+          "Friday: 11:00 AM – 2:00 AM",
+          "Saturday: 11:00 AM – 2:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T15:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4799,
+      "displayName": {
+        "text": "Moxies Beaver Creek Restaurant",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 2,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 2,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 12:00 AM",
+          "Tuesday: 11:00 AM – 12:00 AM",
+          "Wednesday: 11:00 AM – 1:00 AM",
+          "Thursday: 11:00 AM – 1:00 AM",
+          "Friday: 11:00 AM – 2:00 AM",
+          "Saturday: 11:00 AM – 2:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T15:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJY1n9W4PV1IkRYRrPZuzuRzQ",
+      "types": [
+        "mexican_restaurant",
+        "fast_food_restaurant",
+        "catering_service",
+        "food_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-475-6783",
+      "formattedAddress": "8610 Woodbine Ave Unit B5, Markham, ON L3R 4X8, Canada",
+      "location": {
+        "latitude": 43.8525603,
+        "longitude": -79.3590983
+      },
+      "websiteUri": "https://locations.chipotle.ca/on/markham/8610-woodbine-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Chipotle Mexican Grill",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJxcBpdoHV1IkR9S-CLATnFh8",
+      "types": [
+        "sushi_restaurant",
+        "buffet_restaurant",
+        "asian_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-305-8823",
+      "formattedAddress": "4261 Hwy 7, Markham, ON L3R 9W6, Canada",
+      "location": {
+        "latitude": 43.8596815,
+        "longitude": -79.3144387
+      },
+      "websiteUri": "https://www.ichibanayce.com/",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Ichiban Asian All You Can Eat Markham",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJr6lmDXUrK4gRFiXEYmLlqU8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 365-556-0257",
+      "formattedAddress": "505 Hwy 7 Unit 98 & 99, Thornhill, ON L3T 7V6, Canada",
+      "location": {
+        "latitude": 43.842078799999996,
+        "longitude": -79.3858602
+      },
+      "websiteUri": "http://glasskitchencanada.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 3:30 PM",
+          "Tuesday: 10:00 AM – 3:30 PM",
+          "Wednesday: 10:00 AM – 3:30 PM",
+          "Thursday: 10:00 AM – 3:30 PM",
+          "Friday: 10:00 AM – 3:30 PM, 5:00 – 10:00 PM",
+          "Saturday: 9:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+          "Sunday: 9:30 AM – 4:00 PM, 5:00 – 9:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 957,
+      "displayName": {
+        "text": "Glass Kitchen",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 3:30 PM",
+          "Tuesday: 10:00 AM – 3:30 PM",
+          "Wednesday: 10:00 AM – 3:30 PM",
+          "Thursday: 10:00 AM – 3:30 PM",
+          "Friday: 10:00 AM – 3:30 PM, 5:00 – 10:00 PM",
+          "Saturday: 9:30 AM – 4:00 PM, 5:00 – 10:00 PM",
+          "Sunday: 9:30 AM – 4:00 PM, 5:00 – 9:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJ5_XZWHrV1IkRVEAkrR6jQ4k",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-604-8851",
+      "formattedAddress": "11 Fairburn Dr Unit 12-15, Markham, ON L6G 0A4, Canada",
+      "location": {
+        "latitude": 43.8477774,
+        "longitude": -79.34849
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Cafe De Hong Kong 良心冰室",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJN2U6KLXU1IkRFN91p3ci4_0",
+      "types": [
+        "buffet_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-762-9978",
+      "formattedAddress": "650 Hwy 7 #102, Richmond Hill, ON L4B 2N7, Canada",
+      "location": {
+        "latitude": 43.8455018,
+        "longitude": -79.3796093
+      },
+      "websiteUri": "http://liuyishouna.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 3,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 3,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 3,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 3,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 3,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 3,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 3:00 AM",
+          "Tuesday: 11:30 AM – 12:00 AM",
+          "Wednesday: 11:30 AM – 3:00 AM",
+          "Thursday: 11:30 AM – 3:00 AM",
+          "Friday: 11:30 AM – 3:00 AM",
+          "Saturday: 11:30 AM – 3:00 AM",
+          "Sunday: 11:30 AM – 3:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 6038,
+      "displayName": {
+        "text": "Liuyishou Hotpot Toronto",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 3,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 3:00 AM",
+          "Tuesday: 11:30 AM – 12:00 AM",
+          "Wednesday: 11:30 AM – 3:00 AM",
+          "Thursday: 11:30 AM – 3:00 AM",
+          "Friday: 11:30 AM – 3:00 AM",
+          "Saturday: 11:30 AM – 3:00 AM",
+          "Sunday: 11:30 AM – 3:00 AM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJQfVGHnjW1IkRnSztmT-nzZU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-604-5639",
+      "formattedAddress": "5000 Hwy 7 #1247, Markham, ON L3R 4M9, Canada",
+      "location": {
+        "latitude": 43.8675638,
+        "longitude": -79.2889818
+      },
+      "websiteUri": "https://joeyrestaurants.com/location/joey-markville",
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "JOEY Markville",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJTXUViLTU1IkREdOWucPnJAA",
+      "types": [
+        "chinese_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-707-8388",
+      "formattedAddress": "230 Commerce Valley Dr E #1, Thornhill, ON L3T 7Y3, Canada",
+      "location": {
+        "latitude": 43.8433996,
+        "longitude": -79.3780365
+      },
+      "websiteUri": "http://www.congeequeen.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3006,
+      "displayName": {
+        "text": "Congee Queen",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJr44DZuArK4gRz7gVHK8xQj4",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-882-9388",
+      "formattedAddress": "9019 Bayview Ave Unit 9, Richmond Hill, ON L4B 1Y3, Canada",
+      "location": {
+        "latitude": 43.8513448,
+        "longitude": -79.40819710000001
+      },
+      "websiteUri": "http://theonefusioncuisine.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 10:00 PM",
+          "Tuesday: 9:00 AM – 10:00 PM",
+          "Wednesday: 9:00 AM – 10:00 PM",
+          "Thursday: 9:00 AM – 10:00 PM",
+          "Friday: 9:00 AM – 10:00 PM",
+          "Saturday: 9:00 AM – 10:00 PM",
+          "Sunday: 9:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4194,
+      "displayName": {
+        "text": "The ONE Fusion Cuisine",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 10:00 PM",
+          "Tuesday: 9:00 AM – 10:00 PM",
+          "Wednesday: 9:00 AM – 10:00 PM",
+          "Thursday: 9:00 AM – 10:00 PM",
+          "Friday: 9:00 AM – 10:00 PM",
+          "Saturday: 9:00 AM – 10:00 PM",
+          "Sunday: 9:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJH-gdQk8rK4gR-SKF3A1ByQ8",
+      "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "american_restaurant",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-882-6550",
+      "formattedAddress": "420 Hwy 7E, Richmond Hill, ON L4B 3K2, Canada",
+      "location": {
+        "latitude": 43.84357,
+        "longitude": -79.3916977
+      },
+      "websiteUri": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MTk5ODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3103,
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJlXZsdcrU1IkRUWEzWA3hw7A",
+      "types": [
+        "restaurant",
+        "steak_house",
+        "bar_and_grill",
+        "seafood_restaurant",
+        "wine_bar",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-882-0500",
+      "formattedAddress": "162 York Blvd, Richmond Hill, ON L4B 3J6, Canada",
+      "location": {
+        "latitude": 43.8483184,
+        "longitude": -79.37572589999999
+      },
+      "websiteUri": "http://www.thekeg.com/en/locations/richmond-hill",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 – 11:00 PM",
+          "Tuesday: 4:00 – 11:00 PM",
+          "Wednesday: 4:00 – 11:00 PM",
+          "Thursday: 4:00 – 11:00 PM",
+          "Friday: 4:00 PM – 12:00 AM",
+          "Saturday: 3:00 PM – 12:00 AM",
+          "Sunday: 3:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T20:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 4090,
+      "displayName": {
+        "text": "The Keg Steakhouse + Bar - Richmond Hill",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 4:00 – 11:00 PM",
+          "Tuesday: 4:00 – 11:00 PM",
+          "Wednesday: 4:00 – 11:00 PM",
+          "Thursday: 4:00 – 11:00 PM",
+          "Friday: 4:00 PM – 12:00 AM",
+          "Saturday: 3:00 PM – 12:00 AM",
+          "Sunday: 3:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T20:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJ7cFH0k4rK4gR4hQedDaUby8",
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-597-0305",
+      "formattedAddress": "280 West Beaver Creek Rd Unit 37-39, Richmond Hill, ON L4B 3B1, Canada",
+      "location": {
+        "latitude": 43.843695499999995,
+        "longitude": -79.3882139
+      },
+      "websiteUri": "http://www.shinta.ca/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 11:00 PM",
+          "Tuesday: 12:00 – 11:00 PM",
+          "Wednesday: 12:00 – 11:00 PM",
+          "Thursday: 12:00 – 11:00 PM",
+          "Friday: 12:00 PM – 12:00 AM",
+          "Saturday: 12:00 PM – 12:00 AM",
+          "Sunday: 12:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T16:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3763,
+      "displayName": {
+        "text": "Shinta Japanese BBQ",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 11:00 PM",
+          "Tuesday: 12:00 – 11:00 PM",
+          "Wednesday: 12:00 – 11:00 PM",
+          "Thursday: 12:00 – 11:00 PM",
+          "Friday: 12:00 PM – 12:00 AM",
+          "Saturday: 12:00 PM – 12:00 AM",
+          "Sunday: 12:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T16:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJ0_0Y2AArK4gR-eFTAot1VP4",
+      "types": [
+        "chinese_restaurant",
+        "wedding_venue",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-237-1188",
+      "formattedAddress": "10 Vogell Rd, Richmond Hill, ON L4B 3K4, Canada",
+      "location": {
+        "latitude": 43.8640803,
+        "longitude": -79.38236409999999
+      },
+      "websiteUri": "https://www.orientbistro.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1131,
+      "displayName": {
+        "text": "Orient Bistro",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 11:00 PM",
+          "Tuesday: 9:00 AM – 11:00 PM",
+          "Wednesday: 9:00 AM – 11:00 PM",
+          "Thursday: 9:00 AM – 11:00 PM",
+          "Friday: 9:00 AM – 11:00 PM",
+          "Saturday: 9:00 AM – 11:00 PM",
+          "Sunday: 9:00 AM – 11:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T13:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJJRohmlsrK4gRb8asy-9URlA",
+      "types": [
+        "thai_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-882-6908",
+      "formattedAddress": "9021 Leslie St unit 7, Richmond Hill, ON L4B 0B2, Canada",
+      "location": {
+        "latitude": 43.8483376,
+        "longitude": -79.3822362
+      },
+      "websiteUri": "http://isaander.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 10:30 PM",
+          "Saturday: 11:30 AM – 10:30 PM",
+          "Sunday: 11:30 AM – 9:30 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1148,
+      "displayName": {
+        "text": "Isaan Der - Thai Kitchen & Bar",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 10:30 PM",
+          "Saturday: 11:30 AM – 10:30 PM",
+          "Sunday: 11:30 AM – 9:30 PM"
+        ],
+        "nextOpenTime": "2025-09-03T15:30:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJSfuXhqErK4gRieGUHWIry8Q",
+      "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "american_restaurant",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-770-0135",
+      "formattedAddress": "9301 Yonge St, Richmond Hill, ON L4C 1V4, Canada",
+      "location": {
+        "latitude": 43.8541538,
+        "longitude": -79.4326007
+      },
+      "websiteUri": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MjA3MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2202,
+      "displayName": {
+        "text": "McDonald's",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      }
+    },
+    {
+      "name": "places/ChIJGw6CqjErK4gRzZo1NXp4zT4",
+      "types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-787-8666",
+      "formattedAddress": "9580 Yonge St Unit 101, Richmond Hill, ON L4C 1V6, Canada",
+      "location": {
+        "latitude": 43.861199899999995,
+        "longitude": -79.43554569999999
+      },
+      "websiteUri": "http://www.chillaxandco.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 10:00 AM – 9:00 PM",
+          "Wednesday: 10:00 AM – 9:00 PM",
+          "Thursday: 10:00 AM – 9:00 PM",
+          "Friday: 10:00 AM – 10:00 PM",
+          "Saturday: 9:00 AM – 10:00 PM",
+          "Sunday: 9:00 AM – 9:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 702,
+      "displayName": {
+        "text": "Chillax & Co.",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 10:00 AM – 9:00 PM",
+          "Wednesday: 10:00 AM – 9:00 PM",
+          "Thursday: 10:00 AM – 9:00 PM",
+          "Friday: 10:00 AM – 10:00 PM",
+          "Saturday: 9:00 AM – 10:00 PM",
+          "Sunday: 9:00 AM – 9:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T14:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJT36tkeUrK4gRGUNHrmk21oo",
+      "types": [
+        "restaurant",
+        "mediterranean_restaurant",
+        "brunch_restaurant",
+        "cafe",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-417-0707",
+      "formattedAddress": "9340 Bathurst St #1, Maple, ON L6A 4N9, Canada",
+      "location": {
+        "latitude": 43.848929999999996,
+        "longitude": -79.4600954
+      },
+      "websiteUri": "http://landwer.ca/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 11:00 PM",
+          "Saturday: 8:00 AM – 11:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T12:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3876,
+      "displayName": {
+        "text": "Cafe Landwer - Rutherford",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 7
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 8
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 6
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 11:00 PM",
+          "Saturday: 8:00 AM – 11:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2025-09-03T12:00:00Z"
+      }
+    },
+    {
+      "name": "places/ChIJRYgRES8rK4gRLrC4DK6PsWE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-889-9886",
+      "formattedAddress": "1383 16th Ave, Richmond Hill, ON L4B 1J3, Canada",
+      "location": {
+        "latitude": 43.861340399999996,
+        "longitude": -79.3896625
+      },
+      "websiteUri": "http://www.magicnoodle.ca/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3747,
+      "displayName": {
+        "text": "Magic Noodle - Open 24 Hours",
+        "languageCode": "en"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2025,
+                "month": 9,
+                "day": 9
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      }
+    }
+  ]
+}
