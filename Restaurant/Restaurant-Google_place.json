@@ -8223,6 +8223,2308 @@
         "text": "Green Lemon Grass",
         "languageCode": "en"
       }
+    },
+    {
+      "name": "places/ChIJ4VicSKHV1IkRkp5Ws9ylDGw",
+      "types": [
+        "asian_restaurant",
+        "barbecue_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 647-226-8966",
+      "formattedAddress": "9255 Woodbine Ave Unit 12, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8703991,
+        "longitude": -79.3611755
+      },
+      "websiteUri": "https://magicaltasteofchina.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 11:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T03:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 385,
+      "displayName": {
+        "text": "西域食府.清真/Magical Taste Of China.Halal.Woodbine",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJSYBzJSHV1IkROEB8rUSWEw4",
+      "types": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "donut_shop",
+        "fast_food_restaurant",
+        "cafe",
+        "bakery",
+        "food_store",
+        "restaurant",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-8444",
+      "formattedAddress": "9251 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8691312,
+        "longitude": -79.3623047
+      },
+      "websiteUri": "https://locations.timhortons.ca/en/on/markham/9251-woodbine-ave",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 5,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 5:00 AM – 10:00 PM",
+          "Tuesday: 5:00 AM – 10:00 PM",
+          "Wednesday: 5:00 AM – 10:00 PM",
+          "Thursday: 5:00 AM – 10:00 PM",
+          "Friday: 5:00 AM – 10:00 PM",
+          "Saturday: 5:00 AM – 10:00 PM",
+          "Sunday: 5:00 AM – 10:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T02:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 814,
+      "displayName": {
+        "text": "Tim Hortons",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJN1O-6ybV1IkR7znQdkaW4AQ",
+      "types": [
+        "meal_takeaway",
+        "japanese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-534-6666",
+      "formattedAddress": "CA Ontario, 9255 Woodbine Ave Unit B14 Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8704499,
+        "longitude": -79.3614595
+      },
+      "websiteUri": "https://hanadon.ca/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 10:00 PM",
+          "Tuesday: 11:30 AM – 10:00 PM",
+          "Wednesday: 11:30 AM – 10:00 PM",
+          "Thursday: 11:30 AM – 10:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 11:30 AM – 11:00 PM",
+          "Sunday: 11:30 AM – 10:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T02:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 904,
+      "displayName": {
+        "text": "Hana Don Japanese Cuisine & Bar",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJ62YuCXfV1IkR2IoPtlAEI6g",
+      "types": [
+        "asian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-8812",
+      "formattedAddress": "2R1, 9390 Woodbine Ave, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8725853,
+        "longitude": -79.3642587
+      },
+      "websiteUri": "https://verygoodcongeenoodle.ca/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 8:00 PM",
+          "Tuesday: 10:00 AM – 8:00 PM",
+          "Wednesday: 10:00 AM – 8:00 PM",
+          "Thursday: Closed",
+          "Friday: 10:00 AM – 8:00 PM",
+          "Saturday: 10:00 AM – 8:00 PM",
+          "Sunday: 10:00 AM – 8:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T00:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 491,
+      "displayName": {
+        "text": "滿意粥粉面 Very Good Congee & Noodle",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJebSmd9LV1IkRlW18GzoWxXM",
+      "types": [
+        "sandwich_shop",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-8934",
+      "formattedAddress": "9390 Woodbine Ave, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8720691,
+        "longitude": -79.36426569999999
+      },
+      "websiteUri": "https://banhmihousemarkham.ca/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:30 AM – 8:00 PM",
+          "Tuesday: 9:30 AM – 8:00 PM",
+          "Wednesday: 9:30 AM – 8:00 PM",
+          "Thursday: 9:30 AM – 8:00 PM",
+          "Friday: 9:30 AM – 8:00 PM",
+          "Saturday: 9:30 AM – 6:30 PM",
+          "Sunday: 9:30 AM – 6:30 PM"
+        ],
+        "nextCloseTime": "2025-10-26T22:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 240,
+      "displayName": {
+        "text": "Banh Mi House",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJV_6kOiHV1IkRV9kMaYtUkmU",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-927-1616",
+      "formattedAddress": "9255 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8703322,
+        "longitude": -79.36113189999999
+      },
+      "websiteUri": "http://allstarwingsandribs.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 PM – 12:00 AM",
+          "Tuesday: 12:00 PM – 12:00 AM",
+          "Wednesday: 12:00 PM – 12:00 AM",
+          "Thursday: 12:00 PM – 12:00 AM",
+          "Friday: 11:30 AM – 1:00 AM",
+          "Saturday: 12:00 PM – 1:00 AM",
+          "Sunday: 12:00 PM – 12:00 AM"
+        ],
+        "nextCloseTime": "2025-10-27T04:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 653,
+      "displayName": {
+        "text": "All Star Wings & Ribs",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJW3iMyNfV1IkRlqUxFZ36ssQ",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-534-0808",
+      "formattedAddress": "9255 Woodbine Ave Unit 7A, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8700286,
+        "longitude": -79.3609348
+      },
+      "websiteUri": "http://www.photimegta.ca/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 8:30 PM",
+          "Tuesday: 11:00 AM – 8:30 PM",
+          "Wednesday: Closed",
+          "Thursday: 11:00 AM – 8:30 PM",
+          "Friday: 11:00 AM – 8:30 PM",
+          "Saturday: 11:00 AM – 8:30 PM",
+          "Sunday: 11:00 AM – 8:30 PM"
+        ],
+        "nextCloseTime": "2025-10-27T00:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 524,
+      "displayName": {
+        "text": "Photime Authentic Vietnamese Eatery",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJV_6kOiHV1IkRyr2-nZYaceo",
+      "types": [
+        "chinese_restaurant",
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-927-9623",
+      "formattedAddress": "9255 Woodbine Ave #10, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8702659,
+        "longitude": -79.3611294
+      },
+      "websiteUri": "https://hogardenrestaurant.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 9:00 PM",
+          "Tuesday: 8:00 AM – 9:00 PM",
+          "Wednesday: 8:00 AM – 9:00 PM",
+          "Thursday: 8:00 AM – 9:00 PM",
+          "Friday: 8:00 AM – 9:00 PM",
+          "Saturday: 8:00 AM – 9:00 PM",
+          "Sunday: 8:00 AM – 9:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T01:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 573,
+      "displayName": {
+        "text": "半島餐廳 Ho Garden Chinese Restaurant",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJF1mrPeDR1IkR_fLuQg4KTto",
+      "types": [
+        "restaurant",
+        "chinese_restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-889-6399",
+      "formattedAddress": "9390 Woodbine Ave, Unit 2R5, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8720691,
+        "longitude": -79.36426569999999
+      },
+      "websiteUri": "https://www.order.store/store/rain-or-shine-sichuan-cuisine-%E4%B8%8D%E8%A7%81%E4%B8%8D%E6%95%A3%E5%B7%9D%E8%A5%BF%E5%9D%9D%E5%AD%90%E6%B1%9F%E6%B9%96%E8%8F%9C%2B%E7%83%A7%E7%83%A4%2B%E7%A0%82%E9%94%85%2B%E9%B2%9C%E5%95%A4/U59RjafTVAmaXd2dFj7U6Q",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 12:00 AM",
+          "Tuesday: 11:30 AM – 12:00 AM",
+          "Wednesday: 11:30 AM – 12:00 AM",
+          "Thursday: 11:30 AM – 12:00 AM",
+          "Friday: 11:30 AM – 1:00 AM",
+          "Saturday: 11:30 AM – 1:00 AM",
+          "Sunday: 11:30 AM – 12:00 AM"
+        ],
+        "nextCloseTime": "2025-10-27T04:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 169,
+      "displayName": {
+        "text": "不见不散川西坝子江湖菜+烧烤+砂锅+鲜啤Rain or Shine Sichuan Cuisine (Stir-fried+BBQ+Casserole+Draft Beer) (Park at P1, come to the 2nd floor)",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJV_6kOiHV1IkRibl-9fa6sx8",
+      "types": [
+        "greek_restaurant",
+        "mediterranean_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-6464",
+      "formattedAddress": "9255 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8702895,
+        "longitude": -79.3623756
+      },
+      "websiteUri": "https://louiskouzina.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 8:30 PM",
+          "Tuesday: 11:00 AM – 8:30 PM",
+          "Wednesday: 11:00 AM – 8:30 PM",
+          "Thursday: 11:00 AM – 8:30 PM",
+          "Friday: 11:00 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 9:00 PM",
+          "Sunday: 11:00 AM – 8:30 PM"
+        ],
+        "nextCloseTime": "2025-10-27T00:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 462,
+      "displayName": {
+        "text": "Loui's Kouzina",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJV_6kOiHV1IkR0zj00fvyYgY",
+      "types": [
+        "pizza_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 416-967-1111",
+      "formattedAddress": "9255 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.869172,
+        "longitude": -79.361910999999992
+      },
+      "websiteUri": "https://www.pizzapizza.ca/?utm_source=google&utm_medium=local&utm_campaign=google-local",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 12:00 AM",
+          "Tuesday: 11:00 AM – 12:00 AM",
+          "Wednesday: 11:00 AM – 12:00 AM",
+          "Thursday: 11:00 AM – 12:00 AM",
+          "Friday: 11:00 AM – 1:00 AM",
+          "Saturday: 11:00 AM – 1:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "nextCloseTime": "2025-10-27T04:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 474,
+      "displayName": {
+        "text": "Pizza Pizza",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJi0OU99bV1IkRTt0AYcdYT0Q",
+      "types": [
+        "liquor_store",
+        "restaurant",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-282-9876",
+      "formattedAddress": "9390 Woodbine Ave Unit 2R5, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8720691,
+        "longitude": -79.36426569999999
+      },
+      "websiteUri": "https://www.order.store/store/kungfu-malatang-woobine-ave/7osr8hNzQeyO8fGh84LeJg",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:30 AM – 12:00 AM",
+          "Tuesday: 11:30 AM – 12:00 AM",
+          "Wednesday: 11:30 AM – 12:00 AM",
+          "Thursday: 11:30 AM – 12:00 AM",
+          "Friday: 11:30 AM – 1:00 AM",
+          "Saturday: 11:30 AM – 1:00 AM",
+          "Sunday: 11:30 AM – 12:00 AM"
+        ],
+        "nextCloseTime": "2025-10-27T04:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 436,
+      "displayName": {
+        "text": "不见不散(洪七公串串火锅) Kungfu Hotpot (Parking underground P1 & coming up to 2nd Floor)",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJzY647MfV1IkR2zUDnegXMcU",
+      "types": [
+        "chinese_restaurant",
+        "asian_restaurant",
+        "tea_house",
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-927-0666",
+      "formattedAddress": "1CF3, 9390 Woodbine Ave, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8716502,
+        "longitude": -79.3648082
+      },
+      "websiteUri": "http://xinyitimerestaurant.com/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 4:00 PM",
+          "Tuesday: 11:00 AM – 8:00 PM",
+          "Wednesday: 11:00 AM – 8:00 PM",
+          "Thursday: 11:00 AM – 8:00 PM",
+          "Friday: 11:00 AM – 8:00 PM",
+          "Saturday: 11:00 AM – 8:00 PM",
+          "Sunday: 11:00 AM – 8:00 PM"
+        ],
+        "nextCloseTime": "2025-10-27T00:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 57,
+      "displayName": {
+        "text": "Xin Yi Time",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJGY7DN0LV1IkR5w6yGSs5HKI",
+      "types": [
+        "thai_restaurant",
+        "pizza_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 647-465-6426",
+      "formattedAddress": "9390 Woodbine Ave King Square Food Court #1FC15, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.872690299999995,
+        "longitude": -79.3643152
+      },
+      "websiteUri": "http://soisnacks.ca/markham",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 11:00 AM – 7:00 PM",
+          "Wednesday: 11:00 AM – 7:00 PM",
+          "Thursday: 11:00 AM – 7:00 PM",
+          "Friday: 11:00 AM – 8:00 PM",
+          "Saturday: 11:00 AM – 8:00 PM",
+          "Sunday: 11:00 AM – 7:00 PM"
+        ],
+        "nextCloseTime": "2025-10-26T23:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 195,
+      "displayName": {
+        "text": "SOI Snacks",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJIxWvSibV1IkRyzakODuWA8E",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 289-818-2308",
+      "formattedAddress": "9390 Woodbine Ave, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8726152,
+        "longitude": -79.3649128
+      },
+      "websiteUri": "https://www.fantuanorder.com/store/mrxu-ducknoodle/ca-9474?f_promotion=2594&f_channel=198603&f_type=0&f_id=1",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 7:00 PM",
+          "Tuesday: 11:00 AM – 7:00 PM",
+          "Wednesday: 11:00 AM – 7:00 PM",
+          "Thursday: 11:00 AM – 7:00 PM",
+          "Friday: 11:00 AM – 7:00 PM",
+          "Saturday: 11:00 AM – 7:00 PM",
+          "Sunday: 11:00 AM – 7:00 PM"
+        ],
+        "nextCloseTime": "2025-10-26T23:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Mr. Xu Duck Noodle Soup",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJY-SuHMzV1IkRK2hPys_ljrw",
+      "types": [
+        "barbecue_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-2266",
+      "formattedAddress": "9255 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.8702986,
+        "longitude": -79.362027099999992
+      },
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:30 AM – 8:30 PM",
+          "Tuesday: 10:30 AM – 8:30 PM",
+          "Wednesday: 10:30 AM – 8:30 PM",
+          "Thursday: 10:30 AM – 8:30 PM",
+          "Friday: 10:30 AM – 8:30 PM",
+          "Saturday: 10:30 AM – 8:30 PM",
+          "Sunday: 10:30 AM – 8:30 PM"
+        ],
+        "nextCloseTime": "2025-10-27T00:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 180,
+      "displayName": {
+        "text": "Char Siu Manor",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJx-jPRbLV1IkRU2VTzV9dRc4",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-8860",
+      "formattedAddress": "1SK7, 9390 Woodbine Ave, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8725781,
+        "longitude": -79.3644655
+      },
+      "websiteUri": "https://gosnappy.io/owa/snappy/detail/G3075/3075/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 7:30 PM",
+          "Tuesday: Closed",
+          "Wednesday: 11:00 AM – 7:30 PM",
+          "Thursday: 11:00 AM – 7:30 PM",
+          "Friday: 11:00 AM – 7:30 PM",
+          "Saturday: 11:00 AM – 7:30 PM",
+          "Sunday: 11:00 AM – 7:30 PM"
+        ],
+        "nextCloseTime": "2025-10-26T23:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 72,
+      "displayName": {
+        "text": "Sushi Taro",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJ6QiSgXPV1IkRpND39UvrfZ8",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-5599",
+      "formattedAddress": "Unit: 1FC1 9390 Woodbine Ave King Square Shopping Centre 王府, 井, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8725946,
+        "longitude": -79.36523729999999
+      },
+      "websiteUri": "https://mrpancaketoronto.wixsite.com/my-site",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:30 AM – 7:30 PM",
+          "Tuesday: 10:30 AM – 7:30 PM",
+          "Wednesday: 10:30 AM – 7:30 PM",
+          "Thursday: Closed",
+          "Friday: 10:30 AM – 7:30 PM",
+          "Saturday: 10:30 AM – 7:30 PM",
+          "Sunday: 10:30 AM – 7:30 PM"
+        ],
+        "nextCloseTime": "2025-10-26T23:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 57,
+      "displayName": {
+        "text": "Mr Pancake",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJV72RdSnV1IkRAKMrHo0wpZM",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 226-261-2666",
+      "formattedAddress": "King Square Shopping Centre, 9390 Woodbine Ave Unit 1SK3, Markham, ON L6C 0M5, Canada",
+      "location": {
+        "latitude": 43.8725162,
+        "longitude": -79.364869599999992
+      },
+      "businessStatus": "CLOSED_TEMPORARILY",
+      "userRatingCount": 19,
+      "displayName": {
+        "text": "Always Homemade 鲜捞生腌",
+        "languageCode": "en"
+      }
+    },
+    {
+      "name": "places/ChIJ7V_43rMq1YkRodpWWYIBW0k",
+      "types": [
+        "sandwich_shop",
+        "fast_food_restaurant",
+        "catering_service",
+        "food_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "internationalPhoneNumber": "+1 905-887-2511",
+      "formattedAddress": "Cachet Centre, 9255 Woodbine Ave, Markham, ON L6C 1Y9, Canada",
+      "location": {
+        "latitude": 43.869425,
+        "longitude": -79.361429
+      },
+      "websiteUri": "https://mrsub.ca/locations/?utm_source=G&utm_medium=LPM&utm_campaign=MTY",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 9:00 PM",
+          "Tuesday: 10:00 AM – 9:00 PM",
+          "Wednesday: 10:00 AM – 9:00 PM",
+          "Thursday: 10:00 AM – 9:00 PM",
+          "Friday: 10:00 AM – 9:00 PM",
+          "Saturday: 11:00 AM – 6:00 PM",
+          "Sunday: 11:00 AM – 6:00 PM"
+        ],
+        "nextCloseTime": "2025-10-26T22:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 107,
+      "displayName": {
+        "text": "Mr.Sub",
+        "languageCode": "en"
+      }
     }
   ]
 }
