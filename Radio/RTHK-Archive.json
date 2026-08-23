@@ -212293,6 +212293,48 @@
       ],
       "channel": "radio2",
       "pogram": "ladiesnight"
+    },
+    {
+      "id": "1122698",
+      "title": "Sun 生活",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "23/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:04 - 11:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "sunny_day"
+    },
+    {
+      "id": "1122046",
+      "title": "羅家英",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "23/08/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "325722",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/thumbnails/mfile_1144_1122046_1.jpg",
+            "caption": [],
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/originals/mfile_1144_1122046_1_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 08:10 - 10:00)",
+        "第一部份 Part 1 (HKT 08:10 - 09:00)",
+        "第二部份 Part 2 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "hkfootpath"
     }
   ]
 }
