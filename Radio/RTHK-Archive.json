@@ -212826,7 +212826,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 10:04 - 11:00)"
+        "足本 Full (HKT 10:00 - 11:00)"
       ],
       "channel": "radio2",
       "pogram": "sunny_day"
@@ -212857,6 +212857,73 @@
       ],
       "channel": "radio1",
       "pogram": "hkfootpath"
+    },
+    {
+      "id": "1124193",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "31/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1124180",
+      "title": "是日快樂：是日標題黨 / 本周關鍵詞：PB（Personal Best）個人最佳  嘉賓：胡諾言 ",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "31/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1123796",
+      "title": "區瑞強與你分享靚歌",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "30/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 21:00 - 00:00)",
+        "第一部份 Part 1 (HKT 21:04 - 22:00)",
+        "第二部份 Part 2 (HKT 22:04 - 23:00)",
+        "第三部份 Part 3 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "reunion"
+    },
+    {
+      "id": "1124182",
+      "title": "(主持：葉韻怡、廖杏茵) 失眠 / 幼兒口腔健康 / 用藥小知識",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "31/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [],
+      "channel": "radio1",
+      "pogram": "healthpedia"
     }
   ]
 }
