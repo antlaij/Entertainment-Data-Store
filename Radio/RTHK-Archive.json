@@ -212801,7 +212801,7 @@
     },
     {
       "id": "1123707",
-      "title": "她．他．它",
+      "title": "嘉賓：關寳慧 EP2，林暐竣 Regent",
       "message": [],
       "mediaCutOffTime": [],
       "date": "28/08/2026",
@@ -212868,7 +212868,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -212961,11 +212961,12 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
-        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+        "第四部份 Part 4 (HKT 09:04 - 10:00)",
+        "關愛共融嘉年華 聲音精華重溫"
       ],
       "channel": "radio2",
       "pogram": "morningsuite"
@@ -212989,10 +212990,101 @@
     },
     {
       "id": "1124202",
-      "title": "她．他．它",
+      "title": "嘉賓：林溥來 Patrick sir Ep 1，香港婦聯行政總監謝先生 & 助理社會服務總監謝小姐 EP 3",
       "message": [],
       "mediaCutOffTime": [],
       "date": "31/08/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1124420",
+      "title": "(主持：嚴崇天、廖杏茵) 濕疹 / 依托咪酯的內分泌禍害 ",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "01/09/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "326499",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1124420_1.jpg",
+            "caption": "陳俊彥醫生、林志秀教授",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1124420_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "326500",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1124420_2.jpg",
+            "caption": "傅振祥醫生、黃敏儀醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1124420_2_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "濕疹",
+        "依托咪酯的內分泌禍害"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1124657",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "02/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1124645",
+      "title": "是日快樂：是日標題黨 / Parent停：家長開學壓力 嘉賓：社會福利署 臨床心理學家 蘇漢基",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "02/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1124440",
+      "title": "嘉賓：林溥來 Patrick sir Ep 2，深度遊 資深空姐 EP 2 空中服務員的日常",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "01/09/2026",
       "photos": {
         "photo": []
       },
@@ -213005,11 +213097,11 @@
       "pogram": "ladiesnight"
     },
     {
-      "id": "1124420",
-      "title": "(主持：嚴崇天、廖杏茵) 濕疹 / 依托咪酯的內分泌禍害 ",
+      "id": "1124647",
+      "title": "(主持：鄭萃雯、江卓儀) 淋巴癌 / 兒童家居安全 ",
       "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
       "mediaCutOffTime": [],
-      "date": "01/09/2026",
+      "date": "02/09/2026",
       "photos": {
         "photo": []
       },
