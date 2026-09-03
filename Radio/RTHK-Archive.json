@@ -213053,7 +213053,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -213089,7 +213089,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -213099,9 +213099,81 @@
     {
       "id": "1124647",
       "title": "(主持：鄭萃雯、江卓儀) 淋巴癌 / 兒童家居安全 ",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "02/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "淋巴癌",
+        "兒童家居安全"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1124871",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "03/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1124859",
+      "title": "是日快樂：是日標題黨 / 快樂計劃：Michael C",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "03/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1124666",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "02/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1124861",
+      "title": "(主持：葉韻怡、虞逸峯) 猜情尋 / 漸凍人症",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "03/09/2026",
       "photos": {
         "photo": []
       },
