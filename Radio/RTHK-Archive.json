@@ -213216,7 +213216,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -213245,10 +213245,75 @@
     },
     {
       "id": "1124880",
-      "title": "她．他．它",
+      "title": "嘉賓：甄澤權 Louis Yan EP1，精神專科醫生 DR.Elki EP 4",
       "message": [],
       "mediaCutOffTime": [],
       "date": "03/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1125085",
+      "title": "(主持：葉韻怡、虞逸峯) 開學適應期 / 服務與投訴 / 卵巢癌",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "04/09/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "326792",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1125085_1.jpg",
+            "caption": "蘇玉芝",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1125085_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "326793",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1125085_2.jpg",
+            "caption": "陳頌恩博士",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1125085_2_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "2"
+            },
+            "id": "326794",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1125085_3.jpg",
+            "caption": "潘智文醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1125085_3_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "開學適應期",
+        "服務與投訴",
+        "卵巢癌"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1125104",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "04/09/2026",
       "photos": {
         "photo": []
       },
@@ -213259,19 +213324,6 @@
       ],
       "channel": "radio2",
       "pogram": "ladiesnight"
-    },
-    {
-      "id": "1125085",
-      "title": "(主持：葉韻怡、虞逸峯) 開學適應期 / 服務與投訴 / 卵巢癌",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
-      "mediaCutOffTime": [],
-      "date": "04/09/2026",
-      "photos": {
-        "photo": []
-      },
-      "part": [],
-      "channel": "radio1",
-      "pogram": "healthpedia"
     }
   ]
 }
