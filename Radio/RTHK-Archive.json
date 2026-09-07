@@ -213310,7 +213310,7 @@
     },
     {
       "id": "1125104",
-      "title": "她．他．它",
+      "title": "嘉賓：甄澤權 Louis Yan EP2，Nat Chan 陳子晴",
       "message": [],
       "mediaCutOffTime": [],
       "date": "04/09/2026",
@@ -213318,7 +213318,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -213335,7 +213335,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 10:04 - 11:00)"
+        "足本 Full (HKT 10:00 - 11:00)"
       ],
       "channel": "radio2",
       "pogram": "sunny_day"
@@ -213366,6 +213366,54 @@
       ],
       "channel": "radio1",
       "pogram": "hkfootpath"
+    },
+    {
+      "id": "1125631",
+      "title": "是日快樂：是日標題黨 / 本周關鍵詞：人際斷捨離  嘉賓：李芯駖 ",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "07/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1125521",
+      "title": "2000 靚歌再重聚",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "06/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 21:00 - 00:00)",
+        "第一部份 Part 1 (HKT 21:04 - 22:00)",
+        "第二部份 Part 2 (HKT 22:04 - 23:00)",
+        "第三部份 Part 3 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "reunion"
+    },
+    {
+      "id": "1125633",
+      "title": "(主持：葉韻怡、廖杏茵) 兒童及青少年流感防護與應對 / 支援有自殺風險的至親 / 急急處理",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "07/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [],
+      "channel": "radio1",
+      "pogram": "healthpedia"
     }
   ]
 }
