@@ -213405,9 +213405,111 @@
     {
       "id": "1125633",
       "title": "(主持：葉韻怡、廖杏茵) 兒童及青少年流感防護與應對 / 支援有自殺風險的至親 / 急急處理",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "07/09/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "326930",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1125633_1.jpg",
+            "caption": "蘇詠怡醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1125633_1_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "兒童及青少年流感防護與應對",
+        "支援有自殺風險的至親",
+        "急急處理"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1125939",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "08/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1125644",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "07/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:00 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1125926",
+      "title": "是日快樂",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "08/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1125653",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "07/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1125928",
+      "title": "(主持：鄭萃雯、廖杏茵) 阻塞性睡眠窒息症 / 運送醫學",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "08/09/2026",
       "photos": {
         "photo": []
       },
