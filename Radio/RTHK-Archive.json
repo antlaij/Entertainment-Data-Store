@@ -213552,7 +213552,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -213563,7 +213563,7 @@
     },
     {
       "id": "1126150",
-      "title": "是日快樂",
+      "title": "是日快樂：是日標題黨 / 辦公時間：個人品牌？ 嘉賓：1.資深企業培訓導師盧家煒 Gary Lo、2.組織心理學家黃仲遠Mills",
       "message": [],
       "mediaCutOffTime": [],
       "date": "09/09/2026",
@@ -213588,7 +213588,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -213598,9 +213598,100 @@
     {
       "id": "1126152",
       "title": "(主持：鄭萃雯、 何雅莉醫生) 新學年的壓力調適 / 主婦手與富貴手",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "09/09/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "327170",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1126152_1.jpg",
+            "caption": "蔡頌怡醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1126152_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "327171",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1126152_2.jpg",
+            "caption": "陳厚毅醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1126152_2_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:05 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "新學年的壓力調適",
+        "主婦手與富貴手"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1126397",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "10/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1126384",
+      "title": "是日快樂：是日標題黨 / 快樂計劃：夏韶聲",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "10/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1126172",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "09/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1126386",
+      "title": "(主持：葉韻怡、虞逸峯) 星空下的平靜 / 肛門癌",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "10/09/2026",
       "photos": {
         "photo": []
       },
