@@ -213386,7 +213386,7 @@
     },
     {
       "id": "1125521",
-      "title": "2000 靚歌再重聚",
+      "title": "嘉賓 : 鍾維",
       "message": [],
       "mediaCutOffTime": [],
       "date": "06/09/2026",
@@ -213836,7 +213836,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -213853,7 +213853,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 10:04 - 11:00)"
+        "足本 Full (HKT 10:00 - 11:00)"
       ],
       "channel": "radio2",
       "pogram": "sunny_day"
@@ -213870,10 +213870,10 @@
             "@attributes": {
               "index": "0"
             },
-            "id": "327337",
-            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/thumbnails/mfile_1144_1126595_1.jpg",
+            "id": "327394",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/thumbnails/mfile_1144_1126595_2.jpg",
             "caption": [],
-            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/originals/mfile_1144_1126595_1_l.jpg"
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/hkfootpath/originals/mfile_1144_1126595_2_l.jpg"
           }
         ]
       },
@@ -213884,6 +213884,67 @@
       ],
       "channel": "radio1",
       "pogram": "hkfootpath"
+    },
+    {
+      "id": "1127141",
+      "title": "晨光第一線",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "14/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1127128",
+      "title": "是日快樂：是日標題黨 / 本周關鍵詞：Rust-out 「職業生鏽」",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "14/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1127029",
+      "title": "嘉賓﹕周志康、莫家淦",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "13/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 21:00 - 00:00)",
+        "第一部份 Part 1 (HKT 21:04 - 22:00)",
+        "第二部份 Part 2 (HKT 22:04 - 23:00)",
+        "第三部份 Part 3 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "reunion"
+    },
+    {
+      "id": "1127130",
+      "title": "(主持：葉韻怡、江卓儀) 世界濕疹日 / 920「全國愛牙日」 / 肺癌篩查與外科治療選項",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "14/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [],
+      "channel": "radio1",
+      "pogram": "healthpedia"
     }
   ]
 }
