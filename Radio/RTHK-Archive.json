@@ -213763,7 +213763,7 @@
     },
     {
       "id": "1126406",
-      "title": "她．他．它",
+      "title": "嘉賓：雪梨 EP1，香港催眠訓練學院導師 Eric EP 1",
       "message": [],
       "mediaCutOffTime": [],
       "date": "10/09/2026",
@@ -213828,7 +213828,7 @@
     },
     {
       "id": "1126669",
-      "title": "她．他．它",
+      "title": "嘉賓：雪梨 EP2，Lester Lam",
       "message": [],
       "mediaCutOffTime": [],
       "date": "11/09/2026",
@@ -213936,9 +213936,82 @@
     {
       "id": "1127130",
       "title": "(主持：葉韻怡、江卓儀) 世界濕疹日 / 920「全國愛牙日」 / 肺癌篩查與外科治療選項",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "14/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 13:05 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "世界濕疹日",
+        "920「全國愛牙日」",
+        "肺癌篩查與外科治療選項"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1127422",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "15/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1127410",
+      "title": "是日快樂",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "15/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1127150",
+      "title": "嘉賓：楊卓娜 Ep 1，環保少女 鐘芯豫 Natalie EP 1",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "14/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1127412",
+      "title": "(主持：鄭萃雯、虞逸峯) 哮喘 / 膀胱癌的外科手術治療",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "15/09/2026",
       "photos": {
         "photo": []
       },
