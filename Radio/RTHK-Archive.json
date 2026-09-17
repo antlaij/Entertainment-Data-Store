@@ -214061,7 +214061,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -214095,7 +214095,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -214104,10 +214104,76 @@
     },
     {
       "id": "1127593",
-      "title": "(主持：葉韻怡、江卓儀) 運動勞損",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "title": "(主持：葉韻怡、江卓儀) 施政報告醫療項目",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "16/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 13:05 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1127818",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "17/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1127929",
+      "title": "直播『香港第一個五年規劃及2026年施政報告行政長官互動交流答問會』是日快樂節目暫停播放，敬請留意。",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "17/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1127611",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "16/09/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1127807",
+      "title": "(主持：虞逸峯、江卓儀) 走在危機之前 / 雙胎妊娠的注意事項",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "17/09/2026",
       "photos": {
         "photo": []
       },
