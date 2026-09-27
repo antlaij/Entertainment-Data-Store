@@ -1,319 +1,125 @@
 {
   "places": [
     {
-      "name": "places/ChIJeyfe4sfT1IkRBTNhOKXHzsQ",
+      "name": "places/ChIJpwUtAcHU1IkRXmDyKSdI5Ik",
       "types": [
+        "italian_restaurant",
+        "european_restaurant",
         "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
-      "internationalPhoneNumber": "+1 905-477-9791",
-      "formattedAddress": "3636 Steeles Ave E #150, Markham, ON L3R 1K9, Canada",
+      "internationalPhoneNumber": "+1 905-947-1900",
+      "formattedAddress": "25 Cochrane Dr, Markham, ON L3R 9S1, Canada",
       "location": {
-        "latitude": 43.8187581,
-        "longitude": -79.3309376
+        "latitude": 43.848729,
+        "longitude": -79.360793399999991
       },
-      "regularOpeningHours": {
-        "openNow": true,
-        "periods": [
-          {
-            "open": {
-              "day": 0,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 0,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 1,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 1,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 3,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 3,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 4,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 4,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 5,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 5,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 6,
-              "hour": 11,
-              "minute": 0
-            },
-            "close": {
-              "day": 6,
-              "hour": 22,
-              "minute": 0
-            }
-          }
-        ],
-        "weekdayDescriptions": [
-          "Monday: 11:00 AM – 10:00 PM",
-          "Tuesday: Closed",
-          "Wednesday: 11:00 AM – 10:00 PM",
-          "Thursday: 11:00 AM – 10:00 PM",
-          "Friday: 11:00 AM – 10:00 PM",
-          "Saturday: 11:00 AM – 10:00 PM",
-          "Sunday: 11:00 AM – 10:00 PM"
-        ],
-        "nextCloseTime": "2026-09-14T02:00:00Z"
-      },
-      "businessStatus": "OPERATIONAL",
-      "userRatingCount": 44,
-      "displayName": {
-        "text": "Harmony Kitchen",
-        "languageCode": "en"
-      }
-    },
-    {
-      "name": "places/ChIJtyxpNGIqK4gRiTaeAfQcslI",
-      "types": [
-        "home_goods_store",
-        "building_materials_store",
-        "store",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "internationalPhoneNumber": "+1 905-508-5666",
-      "formattedAddress": "475 Edward Ave #10, Richmond Hill, ON L4C 5E5, Canada",
-      "location": {
-        "latitude": 43.895946699999996,
-        "longitude": -79.4274554
-      },
-      "websiteUri": "http://harmonystone.ca/",
+      "websiteUri": "http://www.novitaitalian.com/",
       "regularOpeningHours": {
         "openNow": false,
         "periods": [
           {
             "open": {
-              "day": 1,
-              "hour": 9,
+              "day": 0,
+              "hour": 16,
               "minute": 0
             },
             "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
               "day": 1,
-              "hour": 18,
+              "hour": 11,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
               "minute": 0
             }
           },
           {
             "open": {
               "day": 2,
-              "hour": 9,
-              "minute": 0
+              "hour": 11,
+              "minute": 30
             },
             "close": {
               "day": 2,
-              "hour": 18,
+              "hour": 23,
               "minute": 0
             }
           },
           {
             "open": {
               "day": 3,
-              "hour": 9,
-              "minute": 0
+              "hour": 11,
+              "minute": 30
             },
             "close": {
               "day": 3,
-              "hour": 18,
+              "hour": 23,
               "minute": 0
             }
           },
           {
             "open": {
               "day": 4,
-              "hour": 9,
-              "minute": 0
+              "hour": 11,
+              "minute": 30
             },
             "close": {
               "day": 4,
-              "hour": 18,
+              "hour": 23,
               "minute": 0
             }
           },
           {
             "open": {
               "day": 5,
-              "hour": 9,
-              "minute": 0
+              "hour": 11,
+              "minute": 30
             },
             "close": {
               "day": 5,
-              "hour": 18,
+              "hour": 23,
               "minute": 0
             }
           },
           {
             "open": {
               "day": 6,
-              "hour": 9,
-              "minute": 0
+              "hour": 11,
+              "minute": 30
             },
             "close": {
               "day": 6,
-              "hour": 18,
+              "hour": 23,
               "minute": 0
             }
           }
         ],
         "weekdayDescriptions": [
-          "Monday: 9:00 AM – 6:00 PM",
-          "Tuesday: 9:00 AM – 6:00 PM",
-          "Wednesday: 9:00 AM – 6:00 PM",
-          "Thursday: 9:00 AM – 6:00 PM",
-          "Friday: 9:00 AM – 6:00 PM",
-          "Saturday: 9:00 AM – 6:00 PM",
-          "Sunday: Closed"
+          "Monday: 11:30 AM – 11:00 PM",
+          "Tuesday: 11:30 AM – 11:00 PM",
+          "Wednesday: 11:30 AM – 11:00 PM",
+          "Thursday: 11:30 AM – 11:00 PM",
+          "Friday: 11:30 AM – 11:00 PM",
+          "Saturday: 11:30 AM – 11:00 PM",
+          "Sunday: 4:00 – 10:00 PM"
         ],
-        "nextOpenTime": "2026-09-14T13:00:00Z"
+        "nextOpenTime": "2026-09-27T20:00:00Z"
       },
       "businessStatus": "OPERATIONAL",
-      "userRatingCount": 27,
+      "userRatingCount": 1510,
       "displayName": {
-        "text": "Harmony Stone Ltd.",
-        "languageCode": "en"
-      }
-    },
-    {
-      "name": "places/ChIJtdpJJJEvK4gRO6VFwFo5lbI",
-      "types": [
-        "home_goods_store",
-        "store",
-        "general_contractor",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "internationalPhoneNumber": "+1 905-669-9039",
-      "formattedAddress": "156 Chrislea Rd #4, Woodbridge, ON L4L 8V1, Canada",
-      "location": {
-        "latitude": 43.794193199999995,
-        "longitude": -79.5443922
-      },
-      "websiteUri": "http://harmonykitchens.ca/",
-      "regularOpeningHours": {
-        "openNow": false,
-        "periods": [
-          {
-            "open": {
-              "day": 1,
-              "hour": 9,
-              "minute": 0
-            },
-            "close": {
-              "day": 1,
-              "hour": 17,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 2,
-              "hour": 9,
-              "minute": 0
-            },
-            "close": {
-              "day": 2,
-              "hour": 17,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 3,
-              "hour": 9,
-              "minute": 0
-            },
-            "close": {
-              "day": 3,
-              "hour": 17,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 4,
-              "hour": 9,
-              "minute": 0
-            },
-            "close": {
-              "day": 4,
-              "hour": 17,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 5,
-              "hour": 9,
-              "minute": 0
-            },
-            "close": {
-              "day": 5,
-              "hour": 17,
-              "minute": 0
-            }
-          }
-        ],
-        "weekdayDescriptions": [
-          "Monday: 9:00 AM – 5:00 PM",
-          "Tuesday: 9:00 AM – 5:00 PM",
-          "Wednesday: 9:00 AM – 5:00 PM",
-          "Thursday: 9:00 AM – 5:00 PM",
-          "Friday: 9:00 AM – 5:00 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
-        ],
-        "nextOpenTime": "2026-09-14T13:00:00Z"
-      },
-      "businessStatus": "OPERATIONAL",
-      "displayName": {
-        "text": "Harmony Kitchens",
+        "text": "Novita Italian Cuisine",
         "languageCode": "en"
       }
     }
