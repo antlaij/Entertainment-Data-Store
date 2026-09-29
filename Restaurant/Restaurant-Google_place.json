@@ -1,126 +1,128 @@
 {
   "places": [
     {
-      "name": "places/ChIJpwUtAcHU1IkRXmDyKSdI5Ik",
+      "name": "places/ChIJ579UxX_V1IkRNlImu55znS8",
       "types": [
-        "italian_restaurant",
-        "european_restaurant",
+        "asian_fusion_restaurant",
+        "fusion_restaurant",
+        "asian_restaurant",
+        "chinese_restaurant",
         "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
-      "internationalPhoneNumber": "+1 905-947-1900",
-      "formattedAddress": "25 Cochrane Dr, Markham, ON L3R 9S1, Canada",
+      "internationalPhoneNumber": "+1 647-438-8249",
+      "formattedAddress": "11 Fairburn Dr Unit 18, Markham, ON L6G 0A4, Canada",
       "location": {
-        "latitude": 43.848729,
-        "longitude": -79.360793399999991
+        "latitude": 43.847806399999996,
+        "longitude": -79.3482247
       },
-      "websiteUri": "http://www.novitaitalian.com/",
+      "websiteUri": "https://qingbistro.com/",
       "regularOpeningHours": {
-        "openNow": false,
+        "openNow": true,
         "periods": [
           {
             "open": {
               "day": 0,
-              "hour": 16,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
               "minute": 0
             },
             "close": {
               "day": 0,
-              "hour": 22,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 1,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 1,
-              "hour": 23,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 2,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 2,
-              "hour": 23,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 3,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 3,
-              "hour": 23,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 4,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 4,
-              "hour": 23,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 5,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 5,
-              "hour": 23,
-              "minute": 0
-            }
-          },
-          {
-            "open": {
-              "day": 6,
-              "hour": 11,
-              "minute": 30
-            },
-            "close": {
-              "day": 6,
-              "hour": 23,
+              "hour": 0,
               "minute": 0
             }
           }
         ],
         "weekdayDescriptions": [
-          "Monday: 11:30 AM – 11:00 PM",
-          "Tuesday: 11:30 AM – 11:00 PM",
-          "Wednesday: 11:30 AM – 11:00 PM",
-          "Thursday: 11:30 AM – 11:00 PM",
-          "Friday: 11:30 AM – 11:00 PM",
-          "Saturday: 11:30 AM – 11:00 PM",
-          "Sunday: 4:00 – 10:00 PM"
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 12:00 AM",
+          "Saturday: 11:00 AM – 12:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
         ],
-        "nextOpenTime": "2026-09-27T20:00:00Z"
+        "nextCloseTime": "2026-09-29T03:00:00Z"
       },
       "businessStatus": "OPERATIONAL",
-      "userRatingCount": 1510,
+      "userRatingCount": 231,
       "displayName": {
-        "text": "Novita Italian Cuisine",
-        "languageCode": "en"
+        "text": "山野炊青 Qing Asian Fusion Bistro ( 云贵川菜系)",
+        "languageCode": "zh"
       }
     }
   ]
