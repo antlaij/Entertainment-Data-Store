@@ -214989,7 +214989,7 @@
     },
     {
       "id": "1130254",
-      "title": "她．他．它",
+      "title": "嘉賓：陳展鵬 Ep 1，環保少女 鐘芯豫 Natalie EP 3",
       "message": [],
       "mediaCutOffTime": [],
       "date": "28/09/2026",
@@ -215080,7 +215080,7 @@
     },
     {
       "id": "1130504",
-      "title": "她．他．它",
+      "title": "嘉賓：陳展鵬 Ep 2，深度遊 Jerry EP2 高鐵短線遊 湖北-湖北省博物館編鐘 古德寺",
       "message": [],
       "mediaCutOffTime": [],
       "date": "29/09/2026",
@@ -215171,7 +215171,7 @@
     },
     {
       "id": "1130760",
-      "title": "她．他．它",
+      "title": "嘉賓：陳展鵬 Ep 3，品水師 Nataly Ep 1",
       "message": [],
       "mediaCutOffTime": [],
       "date": "30/09/2026",
@@ -215234,7 +215234,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -215263,10 +215263,75 @@
     },
     {
       "id": "1130978",
-      "title": "她．他．它",
+      "title": "嘉賓：黃庭峰 EP 1，香港催眠訓練學院導師 Eric EP 4",
       "message": [],
       "mediaCutOffTime": [],
       "date": "01/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1131118",
+      "title": "(主持：方健儀、虞逸峯) 社康護士的日常 / 月經期間注意事項 / 手部的各種關節炎",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "02/10/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "328714",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1131118_1.jpg",
+            "caption": "陳杏怡",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1131118_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "328715",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1131118_2.jpg",
+            "caption": "梁冬陽醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1131118_2_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "2"
+            },
+            "id": "328716",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1131118_3.jpg",
+            "caption": "王靜嫻醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1131118_3_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "社康護士的日常",
+        "月經期間注意事項",
+        "手部的各種關節炎"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1131138",
+      "title": "嘉賓：黃庭峰 EP 2，何雁詩",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "02/10/2026",
       "photos": {
         "photo": []
       },
@@ -215277,19 +215342,6 @@
       ],
       "channel": "radio2",
       "pogram": "ladiesnight"
-    },
-    {
-      "id": "1131118",
-      "title": "(主持：方健儀、虞逸峯) 社康護士的日常 / 月經期間注意事項 / 手部的各種關節炎",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
-      "mediaCutOffTime": [],
-      "date": "02/10/2026",
-      "photos": {
-        "photo": []
-      },
-      "part": [],
-      "channel": "radio1",
-      "pogram": "healthpedia"
     }
   ]
 }
