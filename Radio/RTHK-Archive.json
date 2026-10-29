@@ -216215,7 +216215,7 @@
     },
     {
       "id": "1133663",
-      "title": "(主持 ：葉韻怡、虞逸峯) 與心情結伴 / 了解「ADHD」",
+      "title": "(主持：葉韻怡、虞逸峯) 與心情結伴 / 了解「ADHD」",
       "message": [],
       "mediaCutOffTime": [],
       "date": "15/10/2026",
@@ -216307,7 +216307,7 @@
     },
     {
       "id": "1133889",
-      "title": "(主持：葉韻怡、 陳家亮教授) 拆解藍光  擊退眼疲勞 / 慣常運動保障骨骼肌肉健康 / 久咳",
+      "title": "(主持：葉韻怡、陳家亮教授) 拆解藍光  擊退眼疲勞 / 慣常運動保障骨骼肌肉健康 / 久咳",
       "message": [],
       "mediaCutOffTime": [],
       "date": "16/10/2026",
@@ -216556,7 +216556,7 @@
     },
     {
       "id": "1134510",
-      "title": "(主持： 鄭萃雯、虞逸峯) 膀胱過度活躍症 / 肺炎到底有幾多種？",
+      "title": "(主持：鄭萃雯、虞逸峯) 膀胱過度活躍症 / 肺炎到底有幾多種？",
       "message": [],
       "mediaCutOffTime": [],
       "date": "20/10/2026",
@@ -216805,7 +216805,7 @@
     },
     {
       "id": "1134949",
-      "title": "她．他．它",
+      "title": "嘉賓：古佩玲 Ep 1，香港中文大學精神科學系副教授 陳詠欣醫生 EP 3",
       "message": [],
       "mediaCutOffTime": [],
       "date": "22/10/2026",
@@ -216870,7 +216870,7 @@
     },
     {
       "id": "1135138",
-      "title": "她．他．它",
+      "title": "嘉賓：古佩玲 Ep 2，張天賦",
       "message": [],
       "mediaCutOffTime": [],
       "date": "23/10/2026",
@@ -217014,13 +217014,19 @@
     {
       "id": "1135804",
       "title": "晨光第一線",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "27/10/2026",
       "photos": {
         "photo": []
       },
-      "part": [],
+      "part": [
+        "足本 Full (HKT 06:00 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
       "channel": "radio2",
       "pogram": "morningsuite"
     },
@@ -217043,7 +217049,7 @@
     },
     {
       "id": "1135592",
-      "title": "她．他．它",
+      "title": "嘉賓：林淑敏 Ep 1，樹洞香港 Peter EP 3",
       "message": [],
       "mediaCutOffTime": [],
       "date": "26/10/2026",
@@ -217106,7 +217112,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -217134,10 +217140,101 @@
     },
     {
       "id": "1135813",
-      "title": "她．他．它",
+      "title": " 嘉賓：林淑敏 Ep 2，深度遊 謝媛彰 & Betsy EP 2  土耳其美索不達米亞- 哥貝克力石陣與土耳其市民熱情",
       "message": [],
       "mediaCutOffTime": [],
       "date": "27/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1135996",
+      "title": "(主持：虞逸峯、江卓儀) 中風 / 乳癌關注月 ",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "28/10/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "330172",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1135996_1.jpg",
+            "caption": "鄭璟暉醫生、劉巨基醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1135996_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "330173",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1135996_2.jpg",
+            "caption": "梁廣泉醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1135996_2_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:05 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "中風",
+        "乳癌關注月"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1136210",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "29/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1136197",
+      "title": "是日快樂：是日標題黨 / 快樂計劃：齊來學魔術 嘉賓： 1.社企 「魔法社創家」 創辦人Keanu  2.「魔法社創家」經理 Jerry  3.SEN魔術學徒及兼職魔術師Enoch",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "29/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1136016",
+      "title": "嘉賓：林淑敏 Ep 3，裙褂師傅 黃國興師傅 EP1",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "28/10/2026",
       "photos": {
         "photo": []
       },
@@ -217150,11 +217247,11 @@
       "pogram": "ladiesnight"
     },
     {
-      "id": "1135996",
-      "title": "(主持：虞逸峯、江卓儀) 中風 / 乳癌關注月 ",
+      "id": "1136199",
+      "title": "(主持：葉韻怡、虞逸峯) 代班家人 / 膠質母細胞瘤",
       "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
       "mediaCutOffTime": [],
-      "date": "28/10/2026",
+      "date": "29/10/2026",
       "photos": {
         "photo": []
       },
