@@ -217184,7 +217184,7 @@
         ]
       },
       "part": [
-        "足本 Full (HKT 13:05 - 15:00)",
+        "足本 Full (HKT 13:00 - 15:00)",
         "第一部份 Part 1 (HKT 13:05 - 14:00)",
         "第二部份 Part 2 (HKT 14:04 - 15:00)",
         "中風",
@@ -217203,7 +217203,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -217239,7 +217239,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 22:04 - 24:00)",
+        "足本 Full (HKT 22:00 - 00:00)",
         "第一部份 Part 1 (HKT 22:04 - 23:00)",
         "第二部份 Part 2 (HKT 23:04 - 24:00)"
       ],
@@ -217249,9 +217249,101 @@
     {
       "id": "1136199",
       "title": "(主持：葉韻怡、虞逸峯) 代班家人 / 膠質母細胞瘤",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "message": [],
       "mediaCutOffTime": [],
       "date": "29/10/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "330232",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1136199_1.jpg",
+            "caption": "杜文甄、陶鶴雲、王桂蓮",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1136199_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "330233",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1136199_2.jpg",
+            "caption": "謝日恆醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1136199_2_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "代班家人",
+        "膠質母細胞瘤"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1136459",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "30/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)",
+        "晨光警聲"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1136446",
+      "title": "是日快樂：是日標題黨 / 大戲電波：泥面人",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "30/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1136219",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "29/10/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:04 - 24:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1136448",
+      "title": "(主持：方健儀、虞逸峯) 「同層共治」 高效支援腦神經疾病患者 / 雄性禿頭 / 中醫談「濕」與「熱」",
+      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
+      "mediaCutOffTime": [],
+      "date": "30/10/2026",
       "photos": {
         "photo": []
       },
