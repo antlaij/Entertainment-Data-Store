@@ -217821,7 +217821,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -217850,10 +217850,75 @@
     },
     {
       "id": "1137732",
-      "title": "她．他．它",
+      "title": "嘉賓：骨科醫生 陳伯顯醫生 Ep 1，神經外科專科醫生 洪思樂醫生 EP 1",
       "message": [],
       "mediaCutOffTime": [],
       "date": "05/11/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1137910",
+      "title": "(主持：方健儀、虞逸峯) 自我介紹運動 / 妒忌 / 視障長者的物理治療",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "06/11/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "330761",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1137910_1.jpg",
+            "caption": "陳藝賢醫生、傅凱琳",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1137910_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "330762",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1137910_2.jpg",
+            "caption": "陳頌恩博士",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1137910_2_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "2"
+            },
+            "id": "330763",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1137910_3.jpg",
+            "caption": "張健華",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1137910_3_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "自我介紹運動",
+        "妒忌",
+        "視障長者的物理治療"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1137930",
+      "title": "嘉賓：骨科醫生 陳伯顯醫生 Ep 2，歌手 iao",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "06/11/2026",
       "photos": {
         "photo": []
       },
@@ -217864,19 +217929,6 @@
       ],
       "channel": "radio2",
       "pogram": "ladiesnight"
-    },
-    {
-      "id": "1137910",
-      "title": "(主持：方健儀、虞逸峯) 自我介紹運動 / 妒忌 / 視障長者的物理治療",
-      "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
-      "mediaCutOffTime": [],
-      "date": "06/11/2026",
-      "photos": {
-        "photo": []
-      },
-      "part": [],
-      "channel": "radio1",
-      "pogram": "healthpedia"
     }
   ]
 }
