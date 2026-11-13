@@ -218094,7 +218094,7 @@
     },
     {
       "id": "1138457",
-      "title": "她．他．它",
+      "title": "嘉賓：崔錦棠 EP 1",
       "message": [],
       "mediaCutOffTime": [],
       "date": "09/11/2026",
@@ -218185,7 +218185,7 @@
     },
     {
       "id": "1138735",
-      "title": "她．他．它",
+      "title": "嘉賓：崔錦棠 Ep 2，深度遊 謝媛彰 & Betsy EP 3土耳其美索不達米亞 美食與手信",
       "message": [],
       "mediaCutOffTime": [],
       "date": "10/11/2026",
@@ -218229,7 +218229,7 @@
         ]
       },
       "part": [
-        "足本 Full (HKT 13:05 - 15:00)",
+        "足本 Full (HKT 13:00 - 15:00)",
         "第一部份 Part 1 (HKT 13:05 - 14:00)",
         "第二部份 Part 2 (HKT 14:04 - 15:00)",
         "癌症疼痛最新介入治療-精準消融脊髓痛神經",
@@ -218248,7 +218248,7 @@
         "photo": []
       },
       "part": [
-        "足本 Full (HKT 06:04 - 10:00)",
+        "足本 Full (HKT 06:00 - 10:00)",
         "第一部份 Part 1 (HKT 06:04 - 07:00)",
         "第二部份 Part 2 (HKT 07:04 - 08:00)",
         "第三部份 Part 3 (HKT 08:04 - 09:00)",
@@ -218276,10 +218276,102 @@
     },
     {
       "id": "1138974",
-      "title": "她．他．它",
+      "title": "嘉賓：崔錦棠 Ep 3，裙褂師傅 黃國興師傅 EP 3",
       "message": [],
       "mediaCutOffTime": [],
       "date": "11/11/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 22:00 - 00:00)",
+        "第一部份 Part 1 (HKT 22:04 - 23:00)",
+        "第二部份 Part 2 (HKT 23:04 - 24:00)"
+      ],
+      "channel": "radio2",
+      "pogram": "ladiesnight"
+    },
+    {
+      "id": "1139175",
+      "title": "(主持：葉韻怡、虞逸峯) 生命續航 / 眼部護理",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "12/11/2026",
+      "photos": {
+        "photo": [
+          {
+            "@attributes": {
+              "index": "0"
+            },
+            "id": "331113",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1139175_1.jpg",
+            "caption": "周嘉歡醫生、譚煦齡",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1139175_1_l.jpg"
+          },
+          {
+            "@attributes": {
+              "index": "1"
+            },
+            "id": "331114",
+            "thumbnail": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/thumbnails/mfile_6794_1139175_2.jpg",
+            "caption": "沈蔚瑄醫生",
+            "url": "https://webstatic.rthk.hk/oldassets/images/rthk/radio1/healthpedia/originals/mfile_6794_1139175_2_l.jpg"
+          }
+        ]
+      },
+      "part": [
+        "足本 Full (HKT 13:00 - 15:00)",
+        "第一部份 Part 1 (HKT 13:05 - 14:00)",
+        "第二部份 Part 2 (HKT 14:04 - 15:00)",
+        "生命續航",
+        "眼部護理"
+      ],
+      "channel": "radio1",
+      "pogram": "healthpedia"
+    },
+    {
+      "id": "1139380",
+      "title": "晨光第一線",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "13/11/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 06:04 - 10:00)",
+        "第一部份 Part 1 (HKT 06:04 - 07:00)",
+        "第二部份 Part 2 (HKT 07:04 - 08:00)",
+        "第三部份 Part 3 (HKT 08:04 - 09:00)",
+        "第四部份 Part 4 (HKT 09:04 - 10:00)",
+        "晨光警聲"
+      ],
+      "channel": "radio2",
+      "pogram": "morningsuite"
+    },
+    {
+      "id": "1139367",
+      "title": "是日快樂",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "13/11/2026",
+      "photos": {
+        "photo": []
+      },
+      "part": [
+        "足本 Full (HKT 10:20 - 12:00)",
+        "第一部份 Part 1 (HKT 10:20 - 11:00)",
+        "第二部份 Part 2 (HKT 11:04 - 12:00)"
+      ],
+      "channel": "radio1",
+      "pogram": "itsahappyday"
+    },
+    {
+      "id": "1139195",
+      "title": "她．他．它",
+      "message": [],
+      "mediaCutOffTime": [],
+      "date": "12/11/2026",
       "photos": {
         "photo": []
       },
@@ -218292,11 +218384,11 @@
       "pogram": "ladiesnight"
     },
     {
-      "id": "1139175",
-      "title": "(主持：葉韻怡、虞逸峯) 生命續航 / 眼部護理",
+      "id": "1139369",
+      "title": "(主持：葉韻怡、虞逸峯) 身體雕塑手術 / 換位思考 / 脂肪肝與肝纖維化",
       "message": "網上直播完畢稍後提供節目重溫。\nArchive will be available after live webcast",
       "mediaCutOffTime": [],
-      "date": "12/11/2026",
+      "date": "13/11/2026",
       "photos": {
         "photo": []
       },
